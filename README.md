@@ -24,5 +24,3 @@ Note:
 Please be aware that the email service within the portfolio is intentionally disabled to prevent receiving multiple random emails. The rest of the portfolio is fully functional and ready to explore.
 
 Feel free to reach out to me with any questions or feedback. Enjoy exploring my 3D web portfolio!
-
-With this information, you can create a new README file for your GitHub repository and include the provided description and instructions. Remember to update any placeholders with relevant details, such as repository URLs and commands for running the project.
